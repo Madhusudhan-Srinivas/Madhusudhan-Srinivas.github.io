@@ -12,3 +12,22 @@ main {
 .icons-social a svg path{
 	fill: #647882;
 }
+
+.insights-hero {
+    background: linear-gradient(to right, #030d25, #01638a);
+}
+
+.hero {
+    margin-top: -40px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(#2c749b, #413c7f);
+}
+
+.block {
+	position: absolute;
+	left: 0;
+	right: 0;
+}
